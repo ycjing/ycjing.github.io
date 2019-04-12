@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Yongcheng Jing</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on Yongcheng Jing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Yongcheng 2019</copyright>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>I am an MS student at the Microsoft Visual Perception Laboratory (VIPA) of Zhejiang University (ZJU) and Alibaba-Zhejiang University Joint Research Institute of Frontier Technologies (AZFT). I am fortunately advised by Prof. Mingli Song and Prof. Yizhou Yu.</description>
+    </item>
+    
+  </channel>
+</rss>
