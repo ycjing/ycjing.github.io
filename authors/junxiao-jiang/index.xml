@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junxiao Jiang on Yongcheng Jing</title>
-    <link>/authors/junxiao-jiang/</link>
+    <link>https://yongchengjing.com/authors/junxiao-jiang/</link>
     <description>Recent content in Junxiao Jiang on Yongcheng Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2019</copyright>
     <lastBuildDate>Mon, 11 Jun 2018 17:21:21 +0800</lastBuildDate>
     
-	<atom:link href="/authors/junxiao-jiang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongchengjing.com/authors/junxiao-jiang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interpretable Partitioned Embedding for Customized Fashion Outfit Composition</title>
-      <link>/publication/icmr2018/</link>
+      <link>https://yongchengjing.com/publication/icmr2018/</link>
       <pubDate>Mon, 11 Jun 2018 17:21:21 +0800</pubDate>
       
-      <guid>/publication/icmr2018/</guid>
+      <guid>https://yongchengjing.com/publication/icmr2018/</guid>
       <description></description>
     </item>
     

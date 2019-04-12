@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingli Song on Yongcheng Jing</title>
-    <link>/authors/mingli-song/</link>
+    <link>https://yongchengjing.com/authors/mingli-song/</link>
     <description>Recent content in Mingli Song on Yongcheng Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2019</copyright>
     <lastBuildDate>Tue, 11 Sep 2018 17:21:21 +0800</lastBuildDate>
     
-	<atom:link href="/authors/mingli-song/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongchengjing.com/authors/mingli-song/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields</title>
-      <link>/publication/eccv2018/</link>
+      <link>https://yongchengjing.com/publication/eccv2018/</link>
       <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
       
-      <guid>/publication/eccv2018/</guid>
+      <guid>https://yongchengjing.com/publication/eccv2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Style Transfer: A Review</title>
-      <link>/publication/review/</link>
+      <link>https://yongchengjing.com/publication/review/</link>
       <pubDate>Sat, 01 Sep 2018 17:21:21 +0800</pubDate>
       
-      <guid>/publication/review/</guid>
+      <guid>https://yongchengjing.com/publication/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finer-Net: Cascaded Human Parsing with Hierarchical Granularity</title>
-      <link>/publication/icme2018/</link>
+      <link>https://yongchengjing.com/publication/icme2018/</link>
       <pubDate>Sat, 11 Aug 2018 17:21:21 +0800</pubDate>
       
-      <guid>/publication/icme2018/</guid>
+      <guid>https://yongchengjing.com/publication/icme2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable Partitioned Embedding for Customized Fashion Outfit Composition</title>
-      <link>/publication/icmr2018/</link>
+      <link>https://yongchengjing.com/publication/icmr2018/</link>
       <pubDate>Mon, 11 Jun 2018 17:21:21 +0800</pubDate>
       
-      <guid>/publication/icmr2018/</guid>
+      <guid>https://yongchengjing.com/publication/icmr2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph-based Color Gamut Mapping Using Neighbor Metric</title>
-      <link>/publication/icme2017/</link>
+      <link>https://yongchengjing.com/publication/icme2017/</link>
       <pubDate>Mon, 11 Sep 2017 17:21:21 +0800</pubDate>
       
-      <guid>/publication/icme2017/</guid>
+      <guid>https://yongchengjing.com/publication/icme2017/</guid>
       <description></description>
     </item>
     

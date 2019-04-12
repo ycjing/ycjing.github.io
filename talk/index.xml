@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Yongcheng Jing</title>
-    <link>/talk/</link>
+    <link>https://yongchengjing.com/talk/</link>
     <description>Recent content in Talks on Yongcheng Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2019</copyright>
     <lastBuildDate>Wed, 27 Feb 2019 19:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongchengjing.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Review on Normalization Methods</title>
-      <link>/talk/normalization/</link>
+      <link>https://yongchengjing.com/talk/normalization/</link>
       <pubDate>Wed, 27 Feb 2019 19:00:00 +0800</pubDate>
       
-      <guid>/talk/normalization/</guid>
+      <guid>https://yongchengjing.com/talk/normalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Review on Adversarial Attacks</title>
-      <link>/talk/adversarial_attacks/</link>
+      <link>https://yongchengjing.com/talk/adversarial_attacks/</link>
       <pubDate>Mon, 04 Jun 2018 19:00:00 +0800</pubDate>
       
-      <guid>/talk/adversarial_attacks/</guid>
+      <guid>https://yongchengjing.com/talk/adversarial_attacks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Image Aesthetics</title>
-      <link>/talk/deep_aesthetics/</link>
+      <link>https://yongchengjing.com/talk/deep_aesthetics/</link>
       <pubDate>Wed, 17 Jan 2018 20:00:00 +0800</pubDate>
       
-      <guid>/talk/deep_aesthetics/</guid>
+      <guid>https://yongchengjing.com/talk/deep_aesthetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Neural Style Transfer</title>
-      <link>/talk/fast_nst/</link>
+      <link>https://yongchengjing.com/talk/fast_nst/</link>
       <pubDate>Mon, 14 Aug 2017 20:00:00 +0800</pubDate>
       
-      <guid>/talk/fast_nst/</guid>
+      <guid>https://yongchengjing.com/talk/fast_nst/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Advances in Image Reconstruction</title>
-      <link>/talk/image_reconstruction2/</link>
+      <link>https://yongchengjing.com/talk/image_reconstruction2/</link>
       <pubDate>Mon, 17 Jul 2017 20:00:00 +0800</pubDate>
       
-      <guid>/talk/image_reconstruction2/</guid>
+      <guid>https://yongchengjing.com/talk/image_reconstruction2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generative Adversarial Networks: Recent Advances and Popular Application</title>
-      <link>/talk/gan/</link>
+      <link>https://yongchengjing.com/talk/gan/</link>
       <pubDate>Mon, 20 Mar 2017 20:00:00 +0800</pubDate>
       
-      <guid>/talk/gan/</guid>
+      <guid>https://yongchengjing.com/talk/gan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizing Convolutional Neural Networks: Image Reconstruction</title>
-      <link>/talk/image_reconstruction1/</link>
+      <link>https://yongchengjing.com/talk/image_reconstruction1/</link>
       <pubDate>Mon, 17 Oct 2016 19:00:00 +0800</pubDate>
       
-      <guid>/talk/image_reconstruction1/</guid>
+      <guid>https://yongchengjing.com/talk/image_reconstruction1/</guid>
       <description></description>
     </item>
     

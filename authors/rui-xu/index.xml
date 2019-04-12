@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rui Xu on Yongcheng Jing</title>
-    <link>/authors/rui-xu/</link>
+    <link>https://yongchengjing.com/authors/rui-xu/</link>
     <description>Recent content in Rui Xu on Yongcheng Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2019</copyright>
     <lastBuildDate>Mon, 11 Sep 2017 17:21:21 +0800</lastBuildDate>
     
-	<atom:link href="/authors/rui-xu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongchengjing.com/authors/rui-xu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Graph-based Color Gamut Mapping Using Neighbor Metric</title>
-      <link>/publication/icme2017/</link>
+      <link>https://yongchengjing.com/publication/icme2017/</link>
       <pubDate>Mon, 11 Sep 2017 17:21:21 +0800</pubDate>
       
-      <guid>/publication/icme2017/</guid>
+      <guid>https://yongchengjing.com/publication/icme2017/</guid>
       <description></description>
     </item>
     
