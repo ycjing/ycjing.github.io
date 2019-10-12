@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2019</copyright>
-    <lastBuildDate>Tue, 11 Sep 2018 17:21:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 17:21:21 +0800</lastBuildDate>
     
 	<atom:link href="https://yongchengjing.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,54 @@
     <item>
       <title>**Yongcheng Jing**</title>
       <link>https://yongchengjing.com/authors/yongcheng-jing/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
       
       <guid>https://yongchengjing.com/authors/yongcheng-jing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingwen Ye</title>
+      <link>https://yongchengjing.com/authors/jingwen-ye/</link>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
+      
+      <guid>https://yongchengjing.com/authors/jingwen-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingli Song</title>
+      <link>https://yongchengjing.com/authors/mingli-song/</link>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
+      
+      <guid>https://yongchengjing.com/authors/mingli-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yezhou Yang</title>
+      <link>https://yongchengjing.com/authors/yezhou-yang/</link>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
+      
+      <guid>https://yongchengjing.com/authors/yezhou-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yizhou Yu</title>
+      <link>https://yongchengjing.com/authors/yizhou-yu/</link>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
+      
+      <guid>https://yongchengjing.com/authors/yizhou-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zunlei Feng</title>
+      <link>https://yongchengjing.com/authors/zunlei-feng/</link>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
+      
+      <guid>https://yongchengjing.com/authors/zunlei-feng/</guid>
       <description></description>
     </item>
     
@@ -31,101 +76,11 @@
     </item>
     
     <item>
-      <title>Mingli Song</title>
-      <link>https://yongchengjing.com/authors/mingli-song/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/mingli-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yang Liu</title>
       <link>https://yongchengjing.com/authors/yang-liu/</link>
       <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
       
       <guid>https://yongchengjing.com/authors/yang-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yezhou Yang</title>
-      <link>https://yongchengjing.com/authors/yezhou-yang/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/yezhou-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yizhou Yu</title>
-      <link>https://yongchengjing.com/authors/yizhou-yu/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/yizhou-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zunlei Feng</title>
-      <link>https://yongchengjing.com/authors/zunlei-feng/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/zunlei-feng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jingwen Ye</title>
-      <link>https://yongchengjing.com/authors/jingwen-ye/</link>
-      <pubDate>Sat, 01 Sep 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/jingwen-ye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junxiao Jiang</title>
-      <link>https://yongchengjing.com/authors/junxiao-jiang/</link>
-      <pubDate>Mon, 11 Jun 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/junxiao-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhenyun Yu</title>
-      <link>https://yongchengjing.com/authors/zhenyun-yu/</link>
-      <pubDate>Mon, 11 Jun 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/zhenyun-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chengyi Zhang</title>
-      <link>https://yongchengjing.com/authors/chengyi-zhang/</link>
-      <pubDate>Mon, 11 Sep 2017 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/chengyi-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jie Lei</title>
-      <link>https://yongchengjing.com/authors/jie-lei/</link>
-      <pubDate>Mon, 11 Sep 2017 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/jie-lei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rui Xu</title>
-      <link>https://yongchengjing.com/authors/rui-xu/</link>
-      <pubDate>Mon, 11 Sep 2017 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/authors/rui-xu/</guid>
       <description></description>
     </item>
     

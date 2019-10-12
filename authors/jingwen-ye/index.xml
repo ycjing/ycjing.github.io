@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2019</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 17:21:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 17:21:21 +0800</lastBuildDate>
     
 	<atom:link href="https://yongchengjing.com/authors/jingwen-ye/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,9 @@
     <item>
       <title>Neural Style Transfer: A Review</title>
       <link>https://yongchengjing.com/publication/review/</link>
-      <pubDate>Sat, 01 Sep 2018 17:21:21 +0800</pubDate>
+      <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
       
       <guid>https://yongchengjing.com/publication/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finer-Net: Cascaded Human Parsing with Hierarchical Granularity</title>
-      <link>https://yongchengjing.com/publication/icme2018/</link>
-      <pubDate>Sat, 11 Aug 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/publication/icme2018/</guid>
       <description></description>
     </item>
     
