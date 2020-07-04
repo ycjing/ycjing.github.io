@@ -5,88 +5,43 @@
     <description>Recent content in Yongcheng Jing on Yongcheng Jing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Yongcheng 2019</copyright>
+    <copyright>&amp;copy; Yongcheng 2020</copyright>
     <lastBuildDate>Sun, 01 Sep 2019 17:21:21 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Neural Style Transfer: A Review</title>
-      <link>https://yongchengjing.com/publication/review/</link>
+      <title>Publications</title>
+      <link>https://yongchengjing.com/publication/</link>
       <pubDate>Sun, 01 Sep 2019 17:21:21 +0800</pubDate>
       
-      <guid>https://yongchengjing.com/publication/review/</guid>
+      <guid>https://yongchengjing.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Review on Normalization Methods</title>
-      <link>https://yongchengjing.com/talk/normalization/</link>
+      <title>Talks</title>
+      <link>https://yongchengjing.com/talk/</link>
       <pubDate>Wed, 27 Feb 2019 19:00:00 +0800</pubDate>
       
-      <guid>https://yongchengjing.com/talk/normalization/</guid>
+      <guid>https://yongchengjing.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields</title>
-      <link>https://yongchengjing.com/publication/eccv2018/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
+      <title>Authors</title>
+      <link>https://yongchengjing.com/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongchengjing.com/publication/eccv2018/</guid>
+      <guid>https://yongchengjing.com/author/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Review on Adversarial Attacks</title>
-      <link>https://yongchengjing.com/talk/adversarial_attacks/</link>
-      <pubDate>Mon, 04 Jun 2018 19:00:00 +0800</pubDate>
+      <title>Posts</title>
+      <link>https://yongchengjing.com/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yongchengjing.com/talk/adversarial_attacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Image Aesthetics</title>
-      <link>https://yongchengjing.com/talk/deep_aesthetics/</link>
-      <pubDate>Wed, 17 Jan 2018 20:00:00 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/talk/deep_aesthetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast Neural Style Transfer</title>
-      <link>https://yongchengjing.com/talk/fast_nst/</link>
-      <pubDate>Mon, 14 Aug 2017 20:00:00 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/talk/fast_nst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Advances in Image Reconstruction</title>
-      <link>https://yongchengjing.com/talk/image_reconstruction2/</link>
-      <pubDate>Mon, 17 Jul 2017 20:00:00 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/talk/image_reconstruction2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative Adversarial Networks: Recent Advances and Popular Application</title>
-      <link>https://yongchengjing.com/talk/gan/</link>
-      <pubDate>Mon, 20 Mar 2017 20:00:00 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/talk/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualizing Convolutional Neural Networks: Image Reconstruction</title>
-      <link>https://yongchengjing.com/talk/image_reconstruction1/</link>
-      <pubDate>Mon, 17 Oct 2016 19:00:00 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/talk/image_reconstruction1/</guid>
+      <guid>https://yongchengjing.com/post/</guid>
       <description></description>
     </item>
     
