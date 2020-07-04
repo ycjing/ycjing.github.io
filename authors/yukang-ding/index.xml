@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Yongcheng Jing</title>
-    <link>https://yongchengjing.com/publication_types/1/</link>
-    <description>Recent content in 1 on Yongcheng Jing</description>
+    <title>Yukang Ding on Yongcheng Jing</title>
+    <link>https://yongchengjing.com/authors/yukang-ding/</link>
+    <description>Recent content in Yukang Ding on Yongcheng Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Yongcheng 2020</copyright>
     <lastBuildDate>Sat, 04 Jan 2020 21:36:08 +0800</lastBuildDate>
     
-	<atom:link href="https://yongchengjing.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongchengjing.com/authors/yukang-ding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sat, 04 Jan 2020 21:36:08 +0800</pubDate>
       
       <guid>https://yongchengjing.com/publication/aaai2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields</title>
-      <link>https://yongchengjing.com/publication/eccv2018/</link>
-      <pubDate>Tue, 11 Sep 2018 17:21:21 +0800</pubDate>
-      
-      <guid>https://yongchengjing.com/publication/eccv2018/</guid>
       <description></description>
     </item>
     
